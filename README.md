@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c#" height="60" alt="c# logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
 
 ###
 
