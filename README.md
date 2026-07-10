@@ -31,14 +31,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muong-Kim-Heng&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=MuongKimHeng&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muong-Kim-Heng/Muong-Kim-Heng/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muong-Kim-Heng/Muong-Kim-Heng/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muong-Kim-Heng/Muong-Kim-Heng/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuongKimHeng/MuongKimHeng/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuongKimHeng/MuongKimHeng/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuongKimHeng/MuongKimHeng/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
